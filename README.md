@@ -1,0 +1,4 @@
+# TWEETNI
+
+* npm install
+* grunt
